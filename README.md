@@ -77,7 +77,7 @@ while True:
 
     except ValueError:
         print("Invalid number for given base. Try again.")
-
+---
 #Output
 ```
 ===== Base Converter Tool =====
