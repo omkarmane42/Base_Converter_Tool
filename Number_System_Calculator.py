@@ -14,3 +14,6 @@ print("\n-------Coversion Result--------")
 print("Binary :",Binary_number)
 print("Ocatal :",Octal_number)
 print("Hexadecimal: ", Hexadecimal_number)
+
+
+
